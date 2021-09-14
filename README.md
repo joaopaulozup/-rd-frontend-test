@@ -1,4 +1,4 @@
-# \<DesafioFrontend Angular />
+# \<DesafioFrontend />
 
 **Objetivo:**
 Implementar uma aplicação para gerenciar os candidatos que estão em processo seletivo na empresa XYZ. Essa aplicação necessita ser executada nos navegadores mais recentes do mercado.
@@ -40,7 +40,7 @@ O sistema deve seguir o layout proposto, com isso as funcionalidades a serem des
 
 
 **Nível Pleno**
-* Todos os requisitos do nível anterior;
+* Todos os requisitos do nível Junior;
 * Utilizar lazy loading na navegação das rotas;
 * Paginação númerada;
 * Armazenar todas as informações utilizando algum gerenciamento de estado.
@@ -52,7 +52,7 @@ O sistema deve seguir o layout proposto, com isso as funcionalidades a serem des
 
 
 **Nível Senior**
-* Todos os requisitos dos níveis anteriores;
+* Todos os requisitos do nível Junior e Pleno;
 * Paginação infinita em vez da numerada;
 * Microinterações na interface;
 * Testes unitários (mínimo de 70% de coverage);
@@ -68,7 +68,7 @@ O sistema deve seguir o layout proposto, com isso as funcionalidades a serem des
 * Publicar o projeto em alguma plataforma (Heroku, Wedeploy, Firebase, etc), afim de ser possível visualizar através de um link; (Obs: O link deve ser utilizado o build de produção)
 
 ### **Especificações Gerais** ###
-* Utilizar Angular;
+* Utilizar Angular, React, Vue ou outro Framework de sua preferencia;
 * Utilizar pré-processador de CSS (Fique a vontade para usar alguma lib/framework css);
 * ECMAScript 6;
 * Flexbox;
